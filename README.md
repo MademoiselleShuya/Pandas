@@ -1,2 +1,2 @@
 # Pandas
-markdown notes for basic Pandas training
+markdown notes for my basic Pandas training
